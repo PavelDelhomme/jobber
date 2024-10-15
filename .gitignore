@@ -1,0 +1,6 @@
+/venv/
+__pycache__/
+*.pyc
+/frontend/build/
+/frontend/.flutter-plugins
+/frontend/.flutter-plugins-dependencies
